@@ -22,6 +22,6 @@ o seguinte caminho até o executável:
 
     ConsoleApp-CRUD > bin > Debug > net6.0 > ConsoleApp-CRUD.exe
 
-7 - O software possui uma interface simples do Console Application.
+7 - O software possui uma interface simples do tipo Console Application.
 
 8 - Bom Aprendizado!
